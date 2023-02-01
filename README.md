@@ -1,2 +1,2 @@
-# personalblog
-小卓的个人blog
+# 小卓的个人Blog
+
