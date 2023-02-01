@@ -1,3 +1,3 @@
 # Page 1
 
-\#array#
+array
