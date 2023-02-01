@@ -7,5 +7,5 @@
 * [LeetCode练习](algorithmpractice/leetcode-lian-xi/README.md)
   * [704. Binary Search](algorithmpractice/leetcode-lian-xi/704.-binary-search.md)
   * [26. Remove Duplicates from Sorted Array](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array.md)
-  * [Copy of 26. Remove Duplicates from Sorted Array](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-1.md)
-  * [Copy of Copy of 26. Remove Duplicates from Sorted Array](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-2.md)
+  * [74. Search a 2D Matrix](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-1.md)
+  * [34. Find First and Last Position of Element in Sorted Array](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-2.md)
