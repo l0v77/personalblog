@@ -12,3 +12,4 @@
   * [977. Squares of a Sorted Array](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-3.md)
   * [209. Minimum Size Subarray Sum](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-4.md)
   * [59. Spiral Matrix II](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-5.md)
+  * [35. Search Insert Position](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-6.md)
