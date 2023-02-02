@@ -16,3 +16,4 @@
   * [69. Sqrt(x)](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-7.md)
   * [367. Valid Perfect Square](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-8.md)
   * [283. Move Zeroes](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-9.md)
+  * [844. Backspace String Compare](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-10.md)
