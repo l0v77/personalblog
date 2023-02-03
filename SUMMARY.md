@@ -19,3 +19,4 @@
   * [844. Backspace String Compare](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-10.md)
   * [707. Design Linked List](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-11.md)
   * [203. Remove Linked List Elements](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-12.md)
+  * [206. Reverse Linked List](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-13.md)
