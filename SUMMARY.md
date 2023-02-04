@@ -22,3 +22,4 @@
   * [206. Reverse Linked List](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-13.md)
   * [24. Swap Nodes in Pairs](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-14.md)
   * [19. Remove Nth Node From End of List](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-15.md)
+  * [Copy of 19. Remove Nth Node From End of List](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-16.md)
