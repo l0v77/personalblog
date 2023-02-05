@@ -24,3 +24,4 @@
   * [19. Remove Nth Node From End of List](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-15.md)
   * [160. Intersection of Two Linked Lists](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-16.md)
   * [142. Linked List Cycle II](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-17.md)
+  * [378. Kth Smallest Element in a Sorted Matrix](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-18.md)
