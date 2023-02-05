@@ -27,3 +27,4 @@
   * [378. Kth Smallest Element in a Sorted Matrix](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-18.md)
   * [702. Search in a Sorted Array of Unknown Size](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-19.md)
   * [21. Merge Two Sorted Lists](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-20.md)
+  * [143. Reorder List](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-21.md)
