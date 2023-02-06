@@ -28,3 +28,4 @@
   * [702. Search in a Sorted Array of Unknown Size](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-19.md)
   * [21. Merge Two Sorted Lists](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-20.md)
   * [143. Reorder List](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-21.md)
+  * [242. Valid Anagram](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-22.md)
