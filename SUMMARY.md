@@ -29,3 +29,4 @@
   * [21. Merge Two Sorted Lists](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-20.md)
   * [143. Reorder List](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-21.md)
   * [242. Valid Anagram](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-22.md)
+  * [349. Intersection of Two Arrays](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-23.md)
