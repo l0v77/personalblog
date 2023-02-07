@@ -32,3 +32,4 @@
   * [349. Intersection of Two Arrays](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-23.md)
   * [202. Happy Number](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-24.md)
   * [1. Two Sum](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-25.md)
+  * [Copy of 1. Two Sum](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-26.md)
