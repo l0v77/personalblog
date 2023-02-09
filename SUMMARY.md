@@ -39,3 +39,4 @@
   * [344. Reverse String](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-30.md)
   * [541. Reverse String II](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-31.md)
   * [151. Reverse Words in a String](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-32.md)
+  * [189. Rotate Array](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-33.md)
