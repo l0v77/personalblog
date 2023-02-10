@@ -40,3 +40,4 @@
   * [541. Reverse String II](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-31.md)
   * [151. Reverse Words in a String](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-32.md)
   * [189. Rotate Array](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-33.md)
+  * [232. Implement Queue using Stacks](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-34.md)
