@@ -44,3 +44,4 @@
   * [225. Implement Stack using Queues](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-35.md)
   * [20. Valid Parentheses](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-36.md)
   * [1047. Remove All Adjacent Duplicates In String](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-37.md)
+  * [150. Evaluate Reverse Polish Notation](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-38.md)
