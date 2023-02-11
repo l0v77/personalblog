@@ -42,3 +42,5 @@
   * [189. Rotate Array](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-33.md)
   * [232. Implement Queue using Stacks](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-34.md)
   * [225. Implement Stack using Queues](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-35.md)
+  * [20. Valid Parentheses](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-36.md)
+  * [1047. Remove All Adjacent Duplicates In String](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-37.md)
