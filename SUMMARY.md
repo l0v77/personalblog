@@ -45,3 +45,4 @@
   * [20. Valid Parentheses](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-36.md)
   * [1047. Remove All Adjacent Duplicates In String](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-37.md)
   * [150. Evaluate Reverse Polish Notation](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-38.md)
+  * [28. Find the Index of the First Occurrence in a String](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-39.md)
