@@ -48,3 +48,4 @@
   * [28. Find the Index of the First Occurrence in a String](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-39.md)
   * [239. Sliding Window Maximum](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-40.md)
   * [347. Top K Frequent Elements](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-41.md)
+  * [144. Binary Tree Preorder Traversal](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-42.md)
