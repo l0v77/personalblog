@@ -58,3 +58,5 @@
   * [637. Average of Levels in Binary Tree](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-49.md)
   * [429. N-ary Tree Level Order Traversal](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-50.md)
   * [515. Find Largest Value in Each Tree Row](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-51.md)
+  * [429. N-ary Tree Level Order Traversal](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-52.md)
+  * [515. Find Largest Value in Each Tree Row](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-53.md)
