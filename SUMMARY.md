@@ -66,3 +66,4 @@
   * [226. Invert Binary Tree](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-45.md)
   * [222. Count Complete Tree Nodes](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-58.md)
   * [110. Balanced Binary Tree](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-59.md)
+  * [257. Binary Tree Paths](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-60.md)
