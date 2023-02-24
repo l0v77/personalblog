@@ -69,5 +69,5 @@
   * [257. Binary Tree Paths](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-60.md)
   * [404. Sum of Left Leaves](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-61.md)
   * [513. Find Bottom Left Tree Value](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-62.md)
-  * [113. Path Sum II](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-63.md)
-  * [112. Path Sum](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-64.md)
+  * [112. Path Sum](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-63.md)
+  * [113. Path Sum II](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-64.md)
