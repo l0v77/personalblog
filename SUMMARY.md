@@ -72,3 +72,4 @@
   * [112. Path Sum](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-63.md)
   * [113. Path Sum II](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-64.md)
   * [106. Construct Binary Tree from Inorder and Postorder Traversal](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-65.md)
+  * [105. Construct Binary Tree from Preorder and Inorder Traversal](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-66.md)
