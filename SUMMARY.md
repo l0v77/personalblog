@@ -75,3 +75,5 @@
   * [105. Construct Binary Tree from Preorder and Inorder Traversal](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-66.md)
   * [654. Maximum Binary Tree](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-67.md)
   * [617. Merge Two Binary Trees](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-68.md)
+  * [700. Search in a Binary Search Tree](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-69.md)
+  * [98. Validate Binary Search Tree](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-70.md)
