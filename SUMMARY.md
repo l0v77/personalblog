@@ -78,3 +78,4 @@
   * [700. Search in a Binary Search Tree](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-69.md)
   * [98. Validate Binary Search Tree](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-70.md)
   * [530. Minimum Absolute Difference in BST](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-71.md)
+  * [501. Find Mode in Binary Search Tree](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-72.md)
