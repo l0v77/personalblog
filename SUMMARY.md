@@ -80,3 +80,4 @@
   * [530. Minimum Absolute Difference in BST](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-71.md)
   * [501. Find Mode in Binary Search Tree](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-72.md)
   * [236. Lowest Common Ancestor of a Binary Tree](algorithmpractice/leetcode-lian-xi/236.-lowest-common-ancestor-of-a-binary-tree.md)
+  * [235. Lowest Common Ancestor of a Binary Search Tree](algorithmpractice/leetcode-lian-xi/235.-lowest-common-ancestor-of-a-binary-search-tree.md)
