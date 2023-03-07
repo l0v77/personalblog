@@ -79,16 +79,10 @@
   * [98. Validate Binary Search Tree](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-70.md)
   * [530. Minimum Absolute Difference in BST](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-71.md)
   * [501. Find Mode in Binary Search Tree](algorithmpractice/leetcode-lian-xi/26.-remove-duplicates-from-sorted-array-72.md)
-
-## Web Development学习
-
-* [HTML](web-development-xue-xi/html/README.md)
-  * [The Anatomy of an HTML Tag](web-development-xue-xi/html/the-anatomy-of-an-html-tag.md)
-  * [501. Find Mode in Binary Search Tree](web-development-xue-xi/html/26.-remove-duplicates-from-sorted-array.md)
-  * [236. Lowest Common Ancestor of a Binary Tree](web-development-xue-xi/html/236.-lowest-common-ancestor-of-a-binary-tree.md)
-  * [235. Lowest Common Ancestor of a Binary Search Tree](web-development-xue-xi/html/235.-lowest-common-ancestor-of-a-binary-search-tree.md)
-  * [701. Insert into a Binary Search Tree](web-development-xue-xi/html/701.-insert-into-a-binary-search-tree.md)
-  * [450. Delete Node in a BST](web-development-xue-xi/html/450.-delete-node-in-a-bst.md)
-  * [669. Trim a Binary Search Tree](web-development-xue-xi/html/669.-trim-a-binary-search-tree.md)
-  * [108. Convert Sorted Array to Binary Search Tree](web-development-xue-xi/html/108.-convert-sorted-array-to-binary-search-tree.md)
-  * [108. Convert Sorted Array to Binary Search Tree](web-development-xue-xi/html/108.-convert-sorted-array-to-binary-search-tree-1.md)
+  * [236. Lowest Common Ancestor of a Binary Tree](algorithmpractice/leetcode-lian-xi/236.-lowest-common-ancestor-of-a-binary-tree.md)
+  * [235. Lowest Common Ancestor of a Binary Search Tree](algorithmpractice/leetcode-lian-xi/235.-lowest-common-ancestor-of-a-binary-search-tree.md)
+  * [701. Insert into a Binary Search Tree](algorithmpractice/leetcode-lian-xi/701.-insert-into-a-binary-search-tree.md)
+  * [450. Delete Node in a BST](algorithmpractice/leetcode-lian-xi/450.-delete-node-in-a-bst.md)
+  * [669. Trim a Binary Search Tree](algorithmpractice/leetcode-lian-xi/669.-trim-a-binary-search-tree.md)
+  * [108. Convert Sorted Array to Binary Search Tree](algorithmpractice/leetcode-lian-xi/108.-convert-sorted-array-to-binary-search-tree.md)
+  * [108. Convert Sorted Array to Binary Search Tree](algorithmpractice/leetcode-lian-xi/108.-convert-sorted-array-to-binary-search-tree-1.md)
