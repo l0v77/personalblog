@@ -82,3 +82,5 @@
   * [236. Lowest Common Ancestor of a Binary Tree](algorithmpractice/leetcode-lian-xi/236.-lowest-common-ancestor-of-a-binary-tree.md)
   * [235. Lowest Common Ancestor of a Binary Search Tree](algorithmpractice/leetcode-lian-xi/235.-lowest-common-ancestor-of-a-binary-search-tree.md)
   * [701. Insert into a Binary Search Tree](algorithmpractice/leetcode-lian-xi/701.-insert-into-a-binary-search-tree.md)
+  * [450. Delete Node in a BST](algorithmpractice/leetcode-lian-xi/450.-delete-node-in-a-bst.md)
+  * [669. Trim a Binary Search Tree](algorithmpractice/leetcode-lian-xi/669.-trim-a-binary-search-tree.md)
