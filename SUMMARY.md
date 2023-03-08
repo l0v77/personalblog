@@ -91,3 +91,5 @@
   * [17. Letter Combinations of a Phone Number](algorithmpractice/leetcode-lian-xi/17.-letter-combinations-of-a-phone-number.md)
   * [39. Combination Sum](algorithmpractice/leetcode-lian-xi/39.-combination-sum.md)
   * [40. Combination Sum II](algorithmpractice/leetcode-lian-xi/40.-combination-sum-ii.md)
+  * [131. Palindrome Partitioning](algorithmpractice/leetcode-lian-xi/131.-palindrome-partitioning.md)
+  * [93. Restore IP Addresses](algorithmpractice/leetcode-lian-xi/93.-restore-ip-addresses.md)
