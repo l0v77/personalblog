@@ -96,3 +96,4 @@
   * [78. Subsets](algorithmpractice/leetcode-lian-xi/78.-subsets.md)
   * [90. Subsets II](algorithmpractice/leetcode-lian-xi/90.-subsets-ii.md)
   * [491. Non-decreasing Subsequences](algorithmpractice/leetcode-lian-xi/491.-non-decreasing-subsequences.md)
+  * [46. Permutations](algorithmpractice/leetcode-lian-xi/46.-permutations.md)
