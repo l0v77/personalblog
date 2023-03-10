@@ -2,7 +2,7 @@
 description: Array Backtracking
 ---
 
-# 46. Permutations
+# Copy of 46. Permutations
 
 [题目链接](https://leetcode.com/problems/permutations/description/)
 
@@ -45,47 +45,7 @@ class Solution {
 
 ## 时空复杂度
 
-时间复杂度O(n!)
+时间复杂度O(n^n)
 
 空间复杂度O(n)
-
-## 解题思路
-
-```java
-class Solution {
-    List<List<Integer>> result;
-    public List<List<Integer>> permute(int[] nums) {
-        // swap swap method
-        result = new ArrayList<>();
-        if (nums == null) return result;
-        int index = 0;
-        helper(nums, index);
-        return result;
-    }
-    private void helper(int[] nums, int index) {
-        if (index == nums.length) {
-            List<Integer> cur = new ArrayList<>();
-            for (int i : nums) cur.add(i);
-            result.add(cur);
-            return;
-        }
-        for (int i = index; i < nums.length; i++) {
-            swap(nums, index, i);
-            helper(nums, index + 1);
-            swap(nums, index, i);
-        }
-    }
-    private void swap(int[] nums, int left, int right) {
-        int tmp = nums[left];
-        nums[left] = nums[right];
-        nums[right] = tmp;
-    }
-}
-```
-
-## 时空复杂度
-
-时间复杂度O(N\*N! 到N！之间）
-
-空间复杂度O(1) 或者O(n!)
 
