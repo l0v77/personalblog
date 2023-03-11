@@ -98,3 +98,4 @@
   * [491. Non-decreasing Subsequences](algorithmpractice/leetcode-lian-xi/491.-non-decreasing-subsequences.md)
   * [46. Permutations](algorithmpractice/leetcode-lian-xi/46.-permutations.md)
   * [47. Permutations II](algorithmpractice/leetcode-lian-xi/47.-permutations-ii.md)
+  * [332. Reconstruct Itinerary](algorithmpractice/leetcode-lian-xi/332.-reconstruct-itinerary.md)
