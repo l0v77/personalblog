@@ -99,3 +99,4 @@
   * [46. Permutations](algorithmpractice/leetcode-lian-xi/46.-permutations.md)
   * [47. Permutations II](algorithmpractice/leetcode-lian-xi/47.-permutations-ii.md)
   * [332. Reconstruct Itinerary](algorithmpractice/leetcode-lian-xi/332.-reconstruct-itinerary.md)
+  * [51. N-Queens](algorithmpractice/leetcode-lian-xi/51.-n-queens.md)
