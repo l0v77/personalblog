@@ -102,3 +102,4 @@
   * [51. N-Queens](algorithmpractice/leetcode-lian-xi/51.-n-queens.md)
   * [37. Sudoku Solver](algorithmpractice/leetcode-lian-xi/37.-sudoku-solver.md)
   * [509. Fibonacci Number](algorithmpractice/leetcode-lian-xi/509.-fibonacci-number.md)
+  * [70. Climbing Stairs](algorithmpractice/leetcode-lian-xi/70.-climbing-stairs.md)
