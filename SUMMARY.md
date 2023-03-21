@@ -105,3 +105,4 @@
   * [70. Climbing Stairs](algorithmpractice/leetcode-lian-xi/70.-climbing-stairs.md)
   * [746. Min Cost Climbing Stairs](algorithmpractice/leetcode-lian-xi/746.-min-cost-climbing-stairs.md)
   * [62. Unique Paths](algorithmpractice/leetcode-lian-xi/62.-unique-paths.md)
+  * [343. Integer Break](algorithmpractice/leetcode-lian-xi/343.-integer-break.md)
