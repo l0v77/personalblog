@@ -4,6 +4,8 @@ description: 认识你是我的荣幸
 
 # README
 
+{% embed url="https://open.spotify.com/track/25vPtLrUxkdrFHxRzhXSw6?si=e2461640e47c4d32" %}
+
 这是小卓的个人Blog
 
 我将会把自己的学习记录上传作复习使用，也会写一些有的没的，目前大概就只会上传一些leetcode练习。
